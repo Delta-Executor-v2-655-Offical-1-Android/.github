@@ -1,3 +1,9 @@
+ 
+
+**Google Site Verification Meta Tag**:
+```html
+<meta name="google-site-verification" content="0Dk1D8HZynPuWzQQnPGgvf6ye7L89xSiYGdVr_J9_xk" />
+
 # What is Delta Executor?
 
 Delta Executor is a widely used script execution tool designed for Roblox. It allows players to modify the game by running Lua scripts, enabling them to add features, automate actions, and enhance their gaming experience. Delta Executor has gained popularity due to its user-friendly interface, compatibility with various devices, and ability to perform advanced functions without requiring extensive technical knowledge.
